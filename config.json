@@ -1,8 +1,8 @@
 {
-  "name": "Barcode Buddy for Grocy",
+  "name": "Barcode Buddy for Will Grocy",
   "version": "dev-docker-based",
   "slug": "bbuddy-grocy",
-  "description": "Barcode system for Grocy",
+  "description": "Barcode system for Will Grocy",
   "url": "https://github.com/Forceu/barcodebuddy",
   "webui": "http://[HOST]:[PORT:80]",
   "panel_icon": "mdi:barcode-scan",
