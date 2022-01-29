@@ -3,7 +3,7 @@
   "version": "dev-docker-based",
   "slug": "bbuddy-grocy",
   "description": "Barcode system for Will Grocy",
-  "url": "https://github.com/Forceu/barcodebuddy",
+  "url": "https://github.com/Will711990/barcodebuddy",
   "webui": "http://[HOST]:[PORT:80]",
   "panel_icon": "mdi:barcode-scan",
   "startup": "system",
